@@ -25,7 +25,3 @@ urlpatterns = [
 ]
 
 
-# path('capitalizefirst', views.capfirst, name='capitalizefirst'),
-# path('newlineremove', views.newlineremove, name='newlineremove'),
-# path('spaceremove', views.spaceremove, name='spaceremove'),
-# path('charactercount', views.charcount, name='charactercount'),
